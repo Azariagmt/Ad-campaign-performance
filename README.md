@@ -25,3 +25,19 @@ The data is available for download [here](https://drive.google.com/file/d/1FVPOk
 * browser: the name of the browser the user uses to see the BIO questionnaire.
 * yes: 1 if the user chooses the “Yes” radio button for the BIO questionnaire.
 * no: 1 if the user chooses the “No” radio button for the BIO questionnaire.
+
+## Usage
+
+Requirements: Docker
+
+If you dont have Docker installed download from:[ https://docs.docker.com/get-docker/](https://github.com/Azariagmt/Telecom-Analysis/blob/main) for preferred OS
+
+To get latest image from dockerhub use the command below
+
+`docker pull 0941924816/ad-campaign-performance::latest`
+
+Web Application can be found at:
+
+## Conclusion
+
+...
